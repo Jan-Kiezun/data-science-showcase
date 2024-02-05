@@ -1,0 +1,3 @@
+﻿After making changes to funcs.pyx do:
+
+> python setup.py build_ext --inplace
